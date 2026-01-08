@@ -65,5 +65,3 @@ No build process is required - these are static HTML pages with embedded CSS.
 This support site is part of the Saarathi project.
 
 ---
-
-**Note:** Remember to replace placeholder email addresses and dates with actual values before making the site publicly accessible.
